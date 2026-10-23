@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ghassen-da.github.io/gastevo-guide-caisse-tunisie/sitemap.xml
